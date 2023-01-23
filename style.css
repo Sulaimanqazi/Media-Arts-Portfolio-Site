@@ -1,0 +1,34 @@
+        html {
+        height: 100vh;
+        }
+
+        body {
+        background: #000;
+        height: 500vh;
+        }
+        button{
+            background-color: rgb(255, 174, 174);
+            border: none;
+            position: fixed;
+            transform: translate(200%, 490%);
+            top: 50%;
+            left: 50%;
+            padding: 20px 50px;
+            font-size: 30px;
+            font-weight: bold;
+            border-radius: 32px;
+            z-index: 100;
+        }
+
+        canvas {
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        max-height: 100vh;
+        max-width: 100vw;
+        transform: translate(-50%, -50%);
+        }
+
+        h1 {
+            color: white;
+        }

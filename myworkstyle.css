@@ -1,0 +1,499 @@
+html {
+  height: 100vh;
+
+  }
+
+body {
+  background: rgb(255, 232, 169);
+  height: 100vh;
+
+  }
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+#logo{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 50%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+#logotext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 50%;
+  left: 40%;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+#logo:hover + #logotext{
+  
+  transform: translateX(-150px); 
+  
+}
+#logotext:hover + #logo{
+  
+  transform: translateX(-150px); 
+  
+}
+#logo:hover {
+  transform: translateX(150px); 
+
+}
+#logotext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ma{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 120%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+#matext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 120%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#ma:hover + #matext{
+  
+  transform: translateX(-150px); 
+  
+}
+#matext:hover + #ma{
+  
+  transform: translateX(-150px); 
+  
+}
+#ma:hover {
+  transform: translateX(150px); 
+
+}
+#matext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+#ps{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 190%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+#pstext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 190%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#ps:hover + #pstext{
+  
+  transform: translateX(-150px); 
+  
+}
+#pstext:hover + #ps{
+  
+  transform: translateX(-150px); 
+  
+}
+#ps:hover {
+  transform: translateX(150px); 
+
+}
+#pstext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+#foley{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 260%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+#foleytext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 260%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#foley:hover + #foleytext{
+  
+  transform: translateX(-150px); 
+  
+}
+#foleytext:hover + #foley{
+  
+  transform: translateX(-150px); 
+  
+}
+#foley:hover {
+  transform: translateX(150px); 
+
+}
+#foleytext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+
+#pho{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 330%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+
+#photext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 330%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#pho:hover + #photext{
+  
+  transform: translateX(-150px); 
+  
+}
+#photext:hover + #pho{
+  
+  transform: translateX(-150px); 
+  
+}
+#pho:hover {
+  transform: translateX(150px); 
+
+}
+#photext:hover {
+  transform: translateX(-150px); 
+
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  transform: translateY(3300px); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#exp{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 450%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+
+#exptext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 450%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#exp:hover + #exptext{
+  
+  transform: translateX(-150px); 
+  
+}
+#exptext:hover + #exp{
+  
+  transform: translateX(-150px); 
+  
+}
+#exp:hover {
+  transform: translateX(150px); 
+
+}
+#exptext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ia{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 520%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+
+#iatext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 520%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#ia:hover + #iatext{
+  
+  transform: translateX(-150px); 
+  
+}
+#iatext:hover + #ia{
+  
+  transform: translateX(-150px); 
+  
+}
+#ia:hover {
+  transform: translateX(150px); 
+
+}
+#iatext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+
+#pi{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 590%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+
+#pitext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 590%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#pi:hover + #pitext{
+  
+  transform: translateX(-150px); 
+  
+}
+#pitext:hover + #pi{
+  
+  transform: translateX(-150px); 
+  
+}
+#pi:hover {
+  transform: translateX(150px); 
+
+}
+#pitext:hover {
+  transform: translateX(-150px); 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tx{
+  position: absolute;
+  width: 17%;
+  height: 50%;
+  top: 660%;
+  left: 40%;
+  z-index: 1;
+  
+  transition: all 0.5s ease-in-out;
+
+}
+
+
+
+#txtext{
+  position: absolute;
+
+  width: 17%;
+  height: 50%;
+  top: 660%;
+  left: 40%;
+  transition: all 0.5s ease-in-out;
+
+}
+
+#tx:hover + #txtext{
+  
+  transform: translateX(-150px); 
+  
+}
+#txtext:hover + #tx{
+  
+  transform: translateX(-150px); 
+  
+}
+#tx:hover {
+  transform: translateX(150px); 
+
+}
+#txtext:hover {
+  transform: translateX(-150px); 
+
+}
