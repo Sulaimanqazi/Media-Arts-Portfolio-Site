@@ -4,13 +4,13 @@
 
         body {
         background: #000;
-        height: 500vh;
+        height: 500vh; 
         }
         button{
             background-color: rgb(255, 174, 174);
             border: none;
             position: fixed;
-            transform: translate(200%, 490%);
+            transform: translate(120%, 390%);
             top: 50%;
             left: 50%;
             padding: 20px 50px;

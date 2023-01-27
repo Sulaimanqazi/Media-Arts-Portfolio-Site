@@ -4,7 +4,7 @@ html {
   }
 
 body {
-  background: rgb(255, 232, 169);
+  background: rgb(17, 17, 17);
   height: 100vh;
 
   }
@@ -14,14 +14,44 @@ body {
     font-size: 50px;
     font-weight: bold;
     text-align: center;
+    color: rgb(241, 241, 241);
+    background-color: rgb(43, 43, 43);
+    border-radius: 10px;
+    padding: 10px;
   }
 #eyes{
   width: 100%;
   display:block;
 }
 h2{
+  position: relative;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
-  font-weight: bold;
+  font-weight: 550;
   text-align: center;
+  color: rgb(224, 224, 224);
+  background-color: rgb(53, 53, 53);
+  border-radius: 10px;
+  padding: 10px;
+  width: 60%;
+  margin: 0 auto;
+
+}
+h3{
+  width: 70%;
+  color:rgb(0, 9, 56);
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  background-color: rgb(189, 189, 189);
+  border-radius: 10px;
+  padding: 10px;
+}
+p{
+  padding: 5px;
+}
+#pp{
+  padding: 15px;
 }

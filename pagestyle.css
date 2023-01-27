@@ -50,21 +50,19 @@ body {
   filter: drop-shadow(20px 7px 0px #000000);
 }
 .reflections{
+  
   background-color: rgb(233, 255, 174);
-  border: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: auto;
+  border: 1; 
   padding: 48px 25px;
   font-size: 70px;
   font-weight: bold;
   border-radius: 10px;
   z-index: 100;
   filter: drop-shadow(20px 7px 0px #000000);
-  position: absolute;
-  left: 700px;
-  right: 700px;
-  transform: translateY(-20%);
+  position: fixed;
+  width: 25%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-20%);
   bottom: 0;
-}
+
+  }

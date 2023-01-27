@@ -1,0 +1,618 @@
+h1{
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+}
+h2{
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  width: 80%; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+body {
+  background: rgb(255, 232, 169);
+
+  }
+#face1{
+
+    left: 20%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 100%
+    
+}
+#one{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 100%
+}
+#face2{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 220%
+
+}
+#two{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 220%
+}
+#face3{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 340%
+
+}
+#three{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 340%
+}
+#face4{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 460%
+
+}
+#four{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 460%
+}
+#face5{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 580%
+
+}
+#five{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 580%
+}
+#face6{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 700%
+
+}
+#six{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 700%
+}
+#face7{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 820%
+
+}
+#seven{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 820%
+}
+#face8{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 940%
+
+}
+#eight{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 940%
+}
+#face9{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1060%
+
+}
+#nine{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1060%
+}
+#face10{
+
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1180%
+
+}
+#ten{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 30%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1180%
+}
+
+
+
+#tex{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  top: 1280%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#sub{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  top: 1310%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Frames{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 1340%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+#framespic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1410%
+}
+#framestext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1410%
+
+}
+
+#Lighting{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 1460%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+#lightingpic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1530%
+}
+#lightingtext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1530%
+}
+
+#Angle{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 1600%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#anglepic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1680%
+}
+#angletext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1680%
+}
+
+#Patterns{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 1750%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#patternspic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1830%
+}
+#patternstext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1830%
+}
+
+
+
+#Crop{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 1900%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#croppic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1980%
+}
+#croptext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 1980%
+}
+
+#Depth{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 2050%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#depthpic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2130%
+}
+#depthtext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2130%
+}
+
+#Leading{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 2200%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#leadingpic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2280%
+}
+#leadingtext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2280%
+}
+
+#Rule{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 2350%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#rulepic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2430%
+}
+#ruletext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2430%
+}
+
+
+
+
+#LightingRepeat{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 2500%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#lightingrepeatpic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2580%
+}
+#lightingrepeattext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2580%
+}
+
+
+
+
+
+
+
+
+
+
+#PatternsRepeat{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  top: 2650%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#patternsrepeatpic{
+  left: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2730%
+}
+#patternsrepeattext{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  width: 42%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 2730%
+}
