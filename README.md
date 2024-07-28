@@ -1,4 +1,5 @@
-# Media Arts Portfolio Site
+# [Media Arts Portfolio Site](https://sulaimanqazi.github.io/Media-Arts-Portfolio-Site/M/)
+## The password to enter is **MEDIAARTS**
 ### My first website ever created. Showcasing all my work done in Grade 10 Media Arts (ASM201) for a summative project. I recieved a grade of 100% on this project.
 
 The purpose of this website was to showcase my artwork done in class as well as provide reflections on the class itself.  
