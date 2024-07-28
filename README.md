@@ -20,8 +20,10 @@ Unfortunately, my Microsoft Azure trial has expired therefore these animations *
 
 
 
-
 I also implemented a cool CSS animation. In this, if you move your cursor on top of an image, it slides to the right and reveals text behind it!
 ![Hover GIF](martsgif.gif)
+
+
+
 
 Overall, this project taught me key fundamentals of website design, which I would use in further projects. 
