@@ -7,13 +7,21 @@ With this website I used many cool CSS and JavaScript animations to make it look
 
 To create this program, I first prototyped the website's design using Figma, and implemented it in HTML, CSS, and JavaScript. 
 
+
+
+
 Many pages of my website contained a scrolling animation page influenced by Apple's website. 
 This was made by using a javascript program which loop through individual images stored on Microsoft Azure as the user scrolls.
 Many of these animations incorporated renders I designed in blender.
 Unfortunately, my Microsoft Azure trial has expired therefore these animations **do not load anymore**.
 
+![Scroll GIF](aapl-min.gif)
+
+
+
+
 
 I also implemented a cool CSS animation. In this, if you move your cursor on top of an image, it slides to the right and reveals text behind it!
-
+![Hover GIF](martsgif.gif)
 
 Overall, this project taught me key fundamentals of website design, which I would use in further projects. 
